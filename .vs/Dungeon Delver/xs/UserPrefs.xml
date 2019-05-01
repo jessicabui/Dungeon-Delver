@@ -10,7 +10,7 @@
       <File FileName="Assets/__Scripts/Skeletos.cs" Line="45" Column="6" />
       <File FileName="Assets/__Scripts/InRoom.cs" Line="76" Column="21" />
       <File FileName="Assets/__Scripts/IFacingMover.cs" Line="13" Column="47" />
-      <File FileName="Assets/__Scripts/GridMove.cs" Line="15" Column="1" />
+      <File FileName="Assets/__Scripts/GridMove.cs" Line="15" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
