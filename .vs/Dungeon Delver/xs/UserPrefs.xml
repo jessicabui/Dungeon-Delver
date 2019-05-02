@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{AB661688-7F8D-F030-BFD0-79AA71078BDF}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/GridMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/CamFollowDray.cs">
     <Files>
       <File FileName="Assets/Resources/DelverData.txt" Line="1" Column="1" />
       <File FileName="Assets/__Scripts/Tile.cs" Line="68" Column="58" />
-      <File FileName="Assets/__Scripts/TileCamera.cs" Line="14" Column="33" />
-      <File FileName="Assets/__Scripts/Dray.cs" Line="126" Column="38" />
+      <File FileName="Assets/__Scripts/TileCamera.cs" Line="22" Column="35" />
+      <File FileName="Assets/__Scripts/Dray.cs" Line="144" Column="1" />
       <File FileName="Assets/__Scripts/SwordController.cs" Line="22" Column="57" />
       <File FileName="Assets/__Scripts/Enemy.cs" Line="24" Column="48" />
-      <File FileName="Assets/__Scripts/Skeletos.cs" Line="45" Column="6" />
-      <File FileName="Assets/__Scripts/InRoom.cs" Line="76" Column="21" />
+      <File FileName="Assets/__Scripts/Skeletos.cs" Line="22" Column="5" />
+      <File FileName="Assets/__Scripts/InRoom.cs" Line="18" Column="30" />
       <File FileName="Assets/__Scripts/IFacingMover.cs" Line="13" Column="47" />
-      <File FileName="Assets/__Scripts/GridMove.cs" Line="15" Column="12" />
+      <File FileName="Assets/__Scripts/GridMove.cs" Line="21" Column="52" />
+      <File FileName="Assets/__Scripts/CamFollowDray.cs" Line="7" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
